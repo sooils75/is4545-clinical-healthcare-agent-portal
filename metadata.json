@@ -1,0 +1,6 @@
+{
+  "name": "Clinical Virtual-Office Portal",
+  "description": "A clinical virtual-office portal with specialized healthcare AI agents, CSV dataset validation, parallel live analysis, and a comprehensive executive results dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
